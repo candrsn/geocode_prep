@@ -1,6 +1,5 @@
-# Geocode_prep
-Code to pre process data into a geocoder suite
-Code to prepare and build the geocoder index
+# create-geocoder-indexer
+Scripts to build the geocoder index
 
 ### install base software
 1. brew install elasticsearch

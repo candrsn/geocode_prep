@@ -1,0 +1,10 @@
+# build a conda env
+#
+Name: geocode_prep
+
+Dependencies:
+  - sqlite3
+  - elasticsearch
+  - duckdb
+  - gdal
+
