@@ -5,6 +5,8 @@ Name: geocode_prep
 Dependencies:
   - sqlite3
   - elasticsearch
-  - duckdb
+  - pytohn-duckdb
+  - duckdb-cli
   - gdal
+
 
